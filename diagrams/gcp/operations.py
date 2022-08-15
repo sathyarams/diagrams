@@ -10,6 +10,9 @@ class _Operations(_GCP):
 
 class Monitoring(_Operations):
     _icon = "monitoring.png"
+ 
+class Eventarc(_Operations):
+    _icon = "eventarc.png"
 
 
 # Aliases
